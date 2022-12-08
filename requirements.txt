@@ -7,7 +7,7 @@ bleach==3.1.4
 branca==0.3.1
 -e git+https://github.com/grahamalama/census@965c5fbeae7f24eac994bf5e3afe3640f3287795#egg=census
 censusgeocode==0.4.3.post1
-certifi==2019.9.11
+certifi==2022.12.7
 cffi==1.13.2
 chardet==3.0.4
 Click==7.0
